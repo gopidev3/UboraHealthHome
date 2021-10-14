@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0rem;
+}
+.Health-main-root {
+    position: fixed;
+    left:0;
+}
+
+.Health-side-Bar {
+    background-color: #f3f8ff;
+    height:100vh;
+    width:100%;
+}
+.Health-side-content-main {
+    text-align: left;
+    padding: 4.8rem 0rem 0rem 3rem;
+    line-height: 4.5;
+}
+.Health-side-content1 img{
+    width:75%;
+    padding: 0.6rem 0rem 0rem 0rem;
+}
+.spec-content img{
+    width:8%;
+}
+.spec-content span {
+    font-family:'Poppins';
+    color: #2d80b5;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 0rem 0rem 0rem 0.6rem;
+}
+.norm-content img {
+    width:8%;
+}
+.norm-content span {
+    font-family:'Poppins';
+    color: #232323;
+    font-weight: 500;
+    font-size: 0.9rem;
+    padding: 0rem 0rem 0rem 0.9rem;
+}
+
+
