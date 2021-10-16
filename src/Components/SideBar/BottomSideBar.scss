@@ -1,0 +1,79 @@
+.Bottom-SideBar-Main{
+    position: fixed;
+    bottom: 0rem;
+    top:10rem;
+    right: 2rem;
+}
+.Bottom-SideBar{
+    background-color: #f3f8ff;
+    width:100%;
+    padding: 0rem 1rem 1rem 0rem;
+    border-radius: 0.5rem;
+}
+.Bottom-SideBar-Nav {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0rem 0rem 2rem;
+}
+.Nav-Content1 .tkt {
+    font-family: 'Poppins';
+    font-size: 0.8rem;
+    color: #2d80b5;
+    font-weight: 600;
+    padding-bottom: 0.4rem;
+    border-bottom: 0.2rem solid #2d80b5;
+}
+.Nav-Content1 .tkt1{
+    font-size: 1.3rem;
+    float: right;
+    padding-left: 0.5rem;
+}
+.Bottom-SideBar-Content {
+    text-align: left;
+}
+
+// .Bottom-content1 {
+//     padding: 0rem 0rem 0rem 0.2rem;
+// }
+.Bottom-content2 img {
+    width:14%;
+    position: relative;
+    top:1rem;
+}
+.Bottom-content2 span{
+    font-family: 'Poppins';
+    font-size: 0.8rem;
+    padding: 0rem 0rem 0rem 0.4rem;
+    color: #000000;
+    font-weight: 600;
+}
+.Bottom-content2 p{
+    font-size: 0.5rem;
+    font-family: 'Poppins';
+    color: #5a5a5a;
+    padding: 0.4rem 0rem 0rem 0.8rem;
+}
+.Bottom-content2 i{
+    float: right;
+    padding-top: 1rem;
+    font-size: 0.7rem;
+    color: #ff0000;
+}
+.Bottom-content2 img {
+    width:14%;
+    float: left;
+    padding: 0.3rem 0rem 0rem 1.5rem;
+}
+.Bottom-content2 span{
+    font-family: 'Poppins';
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-align: left;
+}
+.Bottom-content2 p {
+    font-size: 0.5rem;
+    font-family: 'Poppins';
+    color: #5a5a5a;
+    padding: 0.4rem 0rem 0rem 0.8rem;
+
+}

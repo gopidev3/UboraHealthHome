@@ -1,0 +1,35 @@
+.Right-SideBar{
+    position: fixed;
+    right:1rem;
+    background-color: #f3f8ff;
+    width:17%;
+    padding: 0rem 0rem 2.5rem 0rem;
+}
+.Right-SideBar-Nav-Main {
+    display: flex;
+    justify-content: right;
+    padding: 0.9rem 1.2rem 0rem 0rem;
+}
+.Right-SideBar-nav .md1 {
+    font-size: 1.5rem;
+    color: #4fb8b6;
+}
+.Right-SideBar-nav i{
+    font-size: 1.5rem;
+    color: #4fb8b6;
+    padding: 0rem 0rem 0rem 0.3rem;
+}
+.Right-SideBar-Content img {
+    width:50%;
+}
+.Right-SideBar-Content h3 {
+    font-size: 1.5rem;
+    color: #2d80b5;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+.Right-SideBar-Content p {
+    font-family: 'Poppins';
+    font-size: 0.8rem;
+    color: #4fb8b6;
+}
